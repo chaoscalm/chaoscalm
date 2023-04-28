@@ -1,7 +1,5 @@
-## About chaoscalm
+## About "chaoscalm" <a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>
 
-<a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>
-  
 असतो मा सद्गमय ।
 तमसो मा ज्योतिर्गमय ।
 मृत्योर्माऽमृतं गमय ॥
