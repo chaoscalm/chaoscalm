@@ -24,6 +24,5 @@
 ```
 
 ## Statistics
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chaoscalm&left_color=black&right_color=green)
 
 ![:stats](https://github-readme-stats.vercel.app/api?username=chaoscalm&theme=vue&show_icons=true)
