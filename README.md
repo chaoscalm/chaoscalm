@@ -1,4 +1,4 @@
-## About "chaoscalm" <a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>
+### 💫 About Me: <a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>
 
 असतो मा सद्गमय ।
 तमसो मा ज्योतिर्गमय ।
@@ -23,6 +23,6 @@
 カービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィ
 ```
 
-## Statistics
+### ✍️ Random Dev Quote
 
-![:stats](https://github-readme-stats.vercel.app/api?username=chaoscalm&theme=vue&show_icons=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
